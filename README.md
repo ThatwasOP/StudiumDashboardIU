@@ -1,6 +1,5 @@
 # StudiumDashboardIU
-Python Dashboard für Studium an der IU
-
+Plattformunabhängiges Python-Dashboard zur Studienorganisation und Echtzeit-Auswertung von ECTS-Fortschritt, gewichtetem Notendurchschnitt, Modulbearbeitungszeit und Leistungstrends für den Studiengang B.Sc. Cyber Security.
 ## 1. Systemvoraussetzungen
 
 * **Python-Version:** Python 3.10 oder höher (erforderlich durch moderne Type-Hints wie `date | None` und `list[Modul]`; Anwendung wurde entwickelt sowie getestet unter Python 3.12).
