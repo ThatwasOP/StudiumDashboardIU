@@ -1,4 +1,6 @@
 # StudiumDashboardIU
+<img width="868" height="565" alt="image" src="https://github.com/user-attachments/assets/71bb0c63-65d0-4671-abb1-e00889e69065" />
+
 Plattformunabhängiges Python-Dashboard zur Studienorganisation und Echtzeit-Auswertung von ECTS-Fortschritt, gewichtetem Notendurchschnitt, Modulbearbeitungszeit und Leistungstrends für den Studiengang B.Sc. Cyber Security.
 ## 1. Systemvoraussetzungen
 
